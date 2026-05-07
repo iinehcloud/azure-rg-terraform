@@ -1,0 +1,7 @@
+resource_group_name = "rg-demo-uks-dev"
+location            = "UK South"
+
+tags = {
+  environment = "development"
+  owner       = "platform-team"
+}
